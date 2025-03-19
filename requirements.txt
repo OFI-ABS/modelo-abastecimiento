@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pyodbc
+openpyxl
+office365-rest-python-client
